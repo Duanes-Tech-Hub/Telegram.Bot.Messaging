@@ -1,6 +1,6 @@
-# AI Helper 🤖
+# Telegram Bot Messaging 🤖
 
-A Telegram bot that serves as a professional AI assistant, designed to help users with various tasks through natural conversation. This bot is currently in development and ready for AI integration.
+I chose to create this project when I was discussing with a friend about the channels you could use to interact with a LLM. The Telegram platform provides you with the ability to build a bot you can message via text and voice. You could use these capabilities for your own personal LLM that acts on assignments via Telegram and limit access by only accepting request from your personal ID. This project is the foundation for this capability.
 
 ## 🌟 Features
 
